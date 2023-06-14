@@ -1,0 +1,19 @@
+.nav{
+    padding: 10px !important;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card-img-top{
+    max-width: 200px !important;
+    max-height: 200px !important;
+}
+
+.card{
+    padding-top: 10px;
+    align-items: center;
+}
